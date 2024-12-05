@@ -21,14 +21,14 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 
 # Site Author
 author:
-    name: "Sun Jinrui"
-    avatar: "images/android-chrome-512x512.png"
-    bio: "Lorem ipsum College"
+    name: "Jinrui Sun"
+    avatar: "images/avatar.png"
+    bio: "Peking University"
     location: "Beijing, China"
     employer:
     pubmed:
     googlescholar: "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-    email: "Lorem@ipsum.com"
+    email: "sunjinrui1277@gmail.com"
     researchgate: # e.g., "https://www.researchgate.net/profile/yourprofile"
     uri:
     bitbucket:
