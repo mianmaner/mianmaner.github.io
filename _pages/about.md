@@ -17,7 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🔥 Aboout me
 I'm **Jinrui Sun(孙锦瑞)**, ...
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -41,7 +40,7 @@ I'm **Jinrui Sun(孙锦瑞)**, ...
 </div>
 </div> -->
 
-- [Giving Every Modality a Voice in Microservice Failure Diagnosis via Multimodal Adaptive Optimization](https://nkcs.iops.ai/wp-content/uploads/2024/10/ASE24-Medicine.pdf). Lei Tao, Shenglin Zhang, Zedong Jia, **Jinrui Sun**, Minghua Ma, Zhengdan Li*, Yongqian Sun, Canqun Yang, Yuzhi Zhang, Dan Pei. 2024 IEEE/ACM Automated Software Engineering Conference (ASE) **\[CCF-A\]**
+- [Giving Every Modality a Voice in Microservice Failure Diagnosis via Multimodal Adaptive Optimization](https://nkcs.iops.ai/wp-content/uploads/2024/10/ASE24-Medicine.pdf). Lei Tao, Shenglin Zhang, Zedong Jia, **Jinrui Sun**, Minghua Ma, Zhengdan Li*, Yongqian Sun, Canqun Yang, Yuzhi Zhang, Dan Pei. 2024 IEEE/ACM Automated Software Engineering Conference (ASE 2024) **\[CCF-A\]**
 
 # 🏅 Honors and Awards
 - *2024.12* **National Scholarship**, in Nankai University.
