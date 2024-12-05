@@ -49,7 +49,7 @@ I'm **Jinrui Sun(孙锦瑞)**, ...
 
 
 # 📖 Educations
-- *2025.09 - 2028.06 (excepted)*, School of Software & Microelectronics, Peking University, Beijing China.
+- *2025.09 - 2028.06 (excepted)*, School of Software and Microelectronics, Peking University, Beijing China.
 - *2021.09 - 2025.06*, School of Software, Nankai University, Tianjin China.
 
 
