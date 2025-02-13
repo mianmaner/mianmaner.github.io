@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Jinrui Sun(孙锦瑞)**, ...
+Welcome! I'm Jinrui Sun(孙锦瑞), a fourth-year undergraduate student at Nankai University. I have recently been admitted to Peking University for graduate studies. My academic advisor is Prof. Ying Li, and my research focus is on log analysis.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -40,12 +40,12 @@ I'm **Jinrui Sun(孙锦瑞)**, ...
 </div>
 </div> -->
 
-- [Giving Every Modality a Voice in Microservice Failure Diagnosis via Multimodal Adaptive Optimization](https://nkcs.iops.ai/wp-content/uploads/2024/10/ASE24-Medicine.pdf). Lei Tao, Shenglin Zhang, Zedong Jia, <u>Jinrui Sun</u>, Minghua Ma, Zhengdan Li*, Yongqian Sun, Canqun Yang, Yuzhi Zhang, Dan Pei. 2024 IEEE/ACM Automated Software Engineering Conference **(ASE 2024)** **\[CCF-A\]**
+- **\[ASE'24\]** [Giving Every Modality a Voice in Microservice Failure Diagnosis via Multimodal Adaptive Optimization](https://nkcs.iops.ai/wp-content/uploads/2024/10/ASE24-Medicine.pdf). Lei Tao, Shenglin Zhang, Zedong Jia, <u>Jinrui Sun</u>, Minghua Ma, Zhengdan Li*, Yongqian Sun, Canqun Yang, Yuzhi Zhang, Dan Pei. 2024 IEEE/ACM Automated Software Engineering Conference **\[CCF-A\]**
 
 # 🏅 Honors and Awards
-- *2024.12* **National Scholarship**, in Nankai University.
-- *2023.12* **First Class Award Scholarship**, in Nankai University.
-- *2022.12* **First Class Award Scholarship**, in Nankai University.
+- *2023-2024* **National Scholarship**, Ministry of Education of the P.R. China.
+- *2022-2023* First Class Award Scholarship, Nankai University.
+- *2022-2023* First Class Award Scholarship, Nankai University.
 
 
 # 📖 Educations
