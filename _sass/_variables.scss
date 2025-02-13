@@ -6,6 +6,13 @@
    Typography
    ========================================================================== */
 
+@font-face {
+   font-family: 'Exo';
+   src: url('../fonts/Exo-Medium.ttf') format('truetype');
+   font-weight: normal;
+   font-style: normal;
+}
+
 $doc-font-size              : 14;
 
 /* paragraph indention */
@@ -14,7 +21,7 @@ $indent-var                 : 0.5em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
+$sans-serif                 : "Exo", Helvetica, sans-serif;
 // $sans-serif                 : Georgia, serif, sans-serif;
 
 // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
