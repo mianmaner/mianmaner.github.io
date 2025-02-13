@@ -5,13 +5,7 @@
 /*
    Typography
    ========================================================================== */
-
-@font-face {
-   font-family: 'Exo';
-   src: url('../fonts/Exo-Medium.ttf') format('truetype');
-   font-weight: normal;
-   font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Exo:ital,wght@0,100..900;1,100..900&display=swap');
 
 $doc-font-size              : 14;
 
@@ -21,7 +15,7 @@ $indent-var                 : 0.5em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : "Exo", Helvetica, sans-serif;
+$sans-serif                 : "Exo 2" "Trebuchet MS", Helvetica, sans-serif;
 // $sans-serif                 : Georgia, serif, sans-serif;
 
 // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
