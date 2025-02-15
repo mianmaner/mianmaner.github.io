@@ -16,10 +16,6 @@
   }
 }
 
-.strong {
-  font-weight: 700;
-}
-
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
@@ -77,7 +73,6 @@
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
-    font-weight: 450;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
