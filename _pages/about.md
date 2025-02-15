@@ -40,7 +40,7 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, a fourth-year undergraduate student at N
 </div>
 </div> -->
 
-- **<span style="color: #0b5394;">\[ASE'24\]</span>** **Giving Every Modality a Voice in Microservice Failure Diagnosis via Multimodal Adaptive Optimization**. Lei Tao, Shenglin Zhang, Zedong Jia, **Jinrui Sun**, Minghua Ma, Zhengdan Li*, Yongqian Sun, Canqun Yang, Yuzhi Zhang, Dan Pei. 2024 IEEE/ACM Automated Software Engineering Conference **\[[paper](https://nkcs.iops.ai/wp-content/uploads/2024/10/ASE24-Medicine.pdf)\]**
+- **<span style="color: #224B8D;">\[ASE'24\]</span>** **Giving Every Modality a Voice in Microservice Failure Diagnosis via Multimodal Adaptive Optimization**. Lei Tao, Shenglin Zhang, Zedong Jia, **Jinrui Sun**, Minghua Ma, Zhengdan Li*, Yongqian Sun, Canqun Yang, Yuzhi Zhang, Dan Pei. 2024 IEEE/ACM Automated Software Engineering Conference **\[[paper](https://nkcs.iops.ai/wp-content/uploads/2024/10/ASE24-Medicine.pdf)\]**
 
 # 🏅 Honors and Awards
 - *2023-2024* **National Scholarship**, Ministry of Education of the P.R. China.
