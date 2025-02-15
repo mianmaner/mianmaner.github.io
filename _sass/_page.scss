@@ -73,6 +73,7 @@
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
+    font-weight: 500;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
