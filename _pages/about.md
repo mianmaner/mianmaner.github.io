@@ -40,7 +40,7 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, a fourth-year undergraduate student at N
 </div>
 </div> -->
 
-- **<span style="color: #224B8D; font-size: 1.05em;">\[FSE'25-IVR\]</span>** **Exploring Variable Potential for LLM-based Log Parsing Efficiency and Reduced Costs**. <u>Jinrui Sun</u>, Tong Jia, Minghua He, Yihan Wu, Ying Li, Gang Huang. 2025 ACM International Conference on the Foundations of Software Engineering \[[paper]()\]
+- **<span style="color: #224B8D; font-size: 1.05em;">\[FSE'25-IVR\]</span>** **Exploring Variable Potential for LLM-based Log Parsing Efficiency and Reduced Costs**. <u>Jinrui Sun</u>, Tong Jia, Minghua He, Yihan Wu, Ying Li, Gang Huang. 2025 ACM International Conference on the Foundations of Software Engineering **(CCF-A)**
 
 
 - **<span style="color: #224B8D; font-size: 1.05em;">\[ASE'24\]</span>** **Giving Every Modality a Voice in Microservice Failure Diagnosis via Multimodal Adaptive Optimization**. Lei Tao, Shenglin Zhang, Zedong Jia, <u>Jinrui Sun</u>, Minghua Ma, Zhengdan Li*, Yongqian Sun, Canqun Yang, Yuzhi Zhang, Dan Pei. 2024 IEEE/ACM International Conference on Automated Software Engineering \[[paper](https://nkcs.iops.ai/wp-content/uploads/2024/10/ASE24-Medicine.pdf)\] \[[code](https://github.com/AIOps-Lab-NKU/Medicine)\]
