@@ -40,7 +40,7 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 </div>
 </div> -->
 - <b style="color: #224B8D;">\[FSE'25-IVR\] </b> **Exploring Variable Potential for LLM-based Log Parsing Efficiency and Reduced Costs**.  
-  <u>Jinrui Sun</u>, Tong Jia, Minghua He, Yihan Wu, Ying Li, Gang Huang.  
+  <u>Jinrui Sun</u>, Tong Jia*, Minghua He, Yihan Wu, Ying Li, Gang Huang.  
   2025 ACM International Conference on the Foundations of Software Engineering (Ideas, Visions and Reflections Track) <b style="color:#3B866E;">(CCF-A)</b>
 
 - <b style="color: #224B8D;">\[ASE'24\]</b> **Giving Every Modality a Voice in Microservice Failure Diagnosis via Multimodal Adaptive Optimization**.  
