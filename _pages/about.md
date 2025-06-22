@@ -39,16 +39,12 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-- <b style="color: #224B8D;">\[FSE'25-IVR\] Exploring Variable Potential for LLM-based Log Parsing Efficiency and Reduced Costs.</b>  
+- <b style="color: #224B8D;">\[FSE'25-IVR\] </b> **Exploring Variable Potential for LLM-based Log Parsing Efficiency and Reduced Costs**.  
   <u>Jinrui Sun</u>, Tong Jia, Minghua He, Yihan Wu, Ying Li, Gang Huang.  
   2025 ACM International Conference on the Foundations of Software Engineering (Ideas, Visions and Reflections Track) <b style="color:#3B866E;">(CCF-A)</b>
 
-- <b style="color: #224B8D;">\[ASE'24\]</b> 
-  
-  **Giving Every Modality a Voice in Microservice Failure Diagnosis via Multimodal Adaptive Optimization**. 
-
-  Lei Tao, Shenglin Zhang, Zedong Jia, <u>Jinrui Sun</u>, Minghua Ma, Zhengdan Li*, Yongqian Sun, Canqun Yang, Yuzhi Zhang, Dan Pei. 
-  
+- <b style="color: #224B8D;">\[ASE'24\]</b> **Giving Every Modality a Voice in Microservice Failure Diagnosis via Multimodal Adaptive Optimization**.  
+  Lei Tao, Shenglin Zhang, Zedong Jia, <u>Jinrui Sun</u>, Minghua Ma, Zhengdan Li*, Yongqian Sun, Canqun Yang, Yuzhi Zhang, Dan Pei.  
   2024 IEEE/ACM International Conference on Automated Software Engineering \[[paper](https://nkcs.iops.ai/wp-content/uploads/2024/10/ASE24-Medicine.pdf)\] \[[code](https://github.com/AIOps-Lab-NKU/Medicine)\] <b style="color:#3B866E;">(CCF-A)</b>
 
 # 🏅 Honors and Awards
