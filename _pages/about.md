@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome! I'm **Jinrui Sun(孙锦瑞)**, a fourth-year undergraduate student at Nankai University. I have recently been admitted to Peking University for graduate studies. My academic advisor is [Prof. Ying Li](https://www.ss.pku.edu.cn/teacherteam/teacherlist/1674-%E6%9D%8E%E5%BD%B1.html), and my research focus is on log analysis.
+Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at the School of Software, Nankai University, and I am currently a graduate student at Peking University. My academic advisor is [Prof. Ying Li](https://www.ss.pku.edu.cn/teacherteam/teacherlist/1674-%E6%9D%8E%E5%BD%B1.html), and my research focuses on Large Language Models for Software Engineering (LLM4SE), with an emphasis on log analysis and automated program repair.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -39,6 +39,9 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, a fourth-year undergraduate student at N
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+- <b style="color: #224B8D;">\[FSE'25-IVR\]</b> 
+  **Exploring Variable Potential for LLM-based Log Parsing Efficiency and Reduced Costs**. 
+  <u>Jinrui Sun</u>, Tong Jia, Minghua He, Yihan Wu, Ying Li, Gang Huang. 2025 ACM International Conference on the Foundations of Software Engineering <b style="color:#3B866E;">(CCF-A)</b>
 
 - <b style="color: #224B8D;">\[ASE'24\]</b> 
   **Giving Every Modality a Voice in Microservice Failure Diagnosis via Multimodal Adaptive Optimization**. 
@@ -47,7 +50,7 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, a fourth-year undergraduate student at N
 # 🏅 Honors and Awards
 - *2023-2024* **National Scholarship**, Ministry of Education of the P.R. China.
 - *2022-2023* First Class Award Scholarship, Nankai University.
-- *2022-2023* First Class Award Scholarship, Nankai University.
+- *2021-2022* First Class Award Scholarship, Nankai University.
 
 
 # 📖 Educations
