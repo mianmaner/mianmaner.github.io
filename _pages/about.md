@@ -50,7 +50,7 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 
 - <b style="color: #224B8D;">\[ISSRE'25\]</b> **Too Many Cooks: Assessing the Need for Multi-Source Data in Microservice Failure Diagnosis**.  
   Shenglin Zhang, Xiaoyu Feng, Runzhou Wang, Minghua Ma, Wenwei Gu, Yongqian Sun*, Zedong Jia, <u>Jinrui Sun</u> and Dan Pei.  
-  The IEEE International Symposium on Software Reliability Engineering, 2025. <b style="color:#3B866E;">(CCF-A)</b>
+  The IEEE International Symposium on Software Reliability Engineering, 2025. <b style="color:#3B866E;">(CCF-B)</b>
 
 - <b style="color: #224B8D;">\[ASE'24\]</b> **Giving Every Modality a Voice in Microservice Failure Diagnosis via Multimodal Adaptive Optimization**.  
   Lei Tao, Shenglin Zhang, Zedong Jia, <u>Jinrui Sun</u>, Minghua Ma, Zhengdan Li*, Yongqian Sun, Canqun Yang, Yuzhi Zhang, Dan Pei.  
