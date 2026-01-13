@@ -42,7 +42,7 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 
 - <b style="color: #224B8D;">\[WWW'26\]</b> **VarParser: Unleashing the Neglected Power of Variables for LLM-based Log Parsing**.  
   <u>Jinrui Sun</u>, Tong Jia, Minghua He, Ying Li.  
-  The Web Conference 2026 <b style="color:#3B866E;">(CCF-A)</b>
+  The Web Conference, 2026 <b style="color:#3B866E;">(CCF-A)</b>
 
 - <b style="color: #224B8D;">\[FSE'25-IVR\] </b> **Exploring Variable Potential for LLM-based Log Parsing Efficiency and Reduced Costs**.  
   <u>Jinrui Sun</u>, Tong Jia*, Minghua He, Yihan Wu, Ying Li, Gang Huang.  
