@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-@import url('https://google-fonts.mirrors.sjtug.sjtu.edu.cn/css2?family=Libertinus+Sans:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
 
 $doc-font-size              : 17px;
 
@@ -16,7 +16,7 @@ $indent-var                 : 0.5em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : "Libertinus Sans", "Trebuchet MS", Helvetica, sans-serif;
+$sans-serif                 : "EB Garamond", "Trebuchet MS", Helvetica, sans-serif;
 // $sans-serif                 : Georgia, serif, sans-serif;
 
 // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
