@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='about-me' style="font-size: 16px;"></span>
 
 Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at the School of Software, Nankai University, and I am currently a graduate student at Peking University. My academic advisors are [Tong Jia](https://scholar.google.com/citations?user=uGqZIQsAAAAJ&hl=zh-CN) and [Prof. Ying Li](https://www.ss.pku.edu.cn/teacherteam/teacherlist/1674-%E6%9D%8E%E5%BD%B1.html), and my research focuses on Large Language Models for Software Engineering (LLM4SE), with an emphasis on software maintenance.
 
@@ -41,7 +41,7 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 </div> -->
 
 - <b style="color: #224B8D;">\[WWW'26\]</b> **VarParser: Unleashing the Neglected Power of Variables for LLM-based Log Parsing**.  
-  <u>Jinrui Sun</u>, Tong Jia, Minghua He, Ying Li.  
+  <u>Jinrui Sun</u>, Tong Jia*, Minghua He, Ying Li.  
   The ACM Web Conference, 2026. \[[paper]()\] \[[code]()\] <b style="color:#3B866E;">(CCF-A)</b>
 
 - <b style="color: #224B8D;">\[FSE'25-IVR\] </b> **Exploring Variable Potential for LLM-based Log Parsing Efficiency and Reduced Costs**.  
