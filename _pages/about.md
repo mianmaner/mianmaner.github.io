@@ -42,7 +42,7 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 
 - <b style="color: #224B8D;">\[WWW'26\]</b> **VarParser: Unleashing the Neglected Power of Variables for LLM-based Log Parsing**.  
   <u>Jinrui Sun</u>, Tong Jia*, Minghua He, Ying Li.  
-  The ACM Web Conference, 2026. <b style="color:#3B866E;">(CCF-A)</b> 
+  The ACM Web Conference, 2026. \[[paper]()\] \[[code]()\] <b style="color:#3B866E;">(CCF-A)</b>
 
 - <b style="color: #224B8D;">\[FSE'25-IVR\] </b> **Exploring Variable Potential for LLM-based Log Parsing Efficiency and Reduced Costs**.  
   <u>Jinrui Sun</u>, Tong Jia*, Minghua He, Yihan Wu, Ying Li, Gang Huang.  
@@ -50,11 +50,11 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 
 - <b style="color: #224B8D;">\[ISSRE'25\]</b> **Too Many Cooks: Assessing the Need for Multi-Source Data in Microservice Failure Diagnosis**.  
   Shenglin Zhang, Xiaoyu Feng, Runzhou Wang, Minghua Ma, Wenwei Gu, Yongqian Sun*, Zedong Jia, <u>Jinrui Sun</u> and Dan Pei.  
-  The IEEE International Symposium on Software Reliability Engineering, 2025. <b style="color:#3B866E;">(CCF-B)</b> \[[paper](https://nkcs.iops.ai/wp-content/uploads/2026/01/Too_Many_Cooks_Assessing_the_Need_for_Multi-Source_Data_in_Microservice_Failure_Diagnosis.pdf)]
+  The IEEE International Symposium on Software Reliability Engineering, 2025. \[[paper](https://nkcs.iops.ai/wp-content/uploads/2026/01/Too_Many_Cooks_Assessing_the_Need_for_Multi-Source_Data_in_Microservice_Failure_Diagnosis.pdf)] \[[code](https://github.com/flyingnobe/Empirical-Study-on-Multi-source-Failure-Diagnosis)] <b style="color:#3B866E;">(CCF-B)</b>
 
 - <b style="color: #224B8D;">\[ASE'24\]</b> **Giving Every Modality a Voice in Microservice Failure Diagnosis via Multimodal Adaptive Optimization**.  
   Lei Tao, Shenglin Zhang, Zedong Jia, <u>Jinrui Sun</u>, Minghua Ma, Zhengdan Li*, Yongqian Sun, Canqun Yang, Yuzhi Zhang, Dan Pei.  
-  The IEEE/ACM International Conference on Automated Software Engineering, 2024. <b style="color:#3B866E;">(CCF-A)</b> \[[paper](https://nkcs.iops.ai/wp-content/uploads/2024/10/ASE24-Medicine.pdf)\] \[[code](https://github.com/AIOps-Lab-NKU/Medicine)\]
+  The IEEE/ACM International Conference on Automated Software Engineering, 2024. \[[paper](https://nkcs.iops.ai/wp-content/uploads/2024/10/ASE24-Medicine.pdf)\] \[[code](https://github.com/AIOps-Lab-NKU/Medicine)\] <b style="color:#3B866E;">(CCF-A)</b>
 
 # 🏅 Honors and Awards
 - *2023-2024* **National Scholarship**, Ministry of Education of the P.R. China.
