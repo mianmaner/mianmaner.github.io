@@ -33,7 +33,7 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
   <u>Jinrui Sun</u>, Tong Jia*, Minghua He, Ying Li.  
   In the proceedings of the ACM Web Conference, 2026. \[[paper](https://arxiv.org/abs/2601.22676)\] \[[code](https://github.com/mianmaner/VarParser)\] <b style="color:#3B866E;">(CCF-A)</b>
 
-- <b style="color: #224B8D;">\[ICSE-Poster'25\] </b> **Exploring the Information Disorientation Problem in Program Repair under Relaxed Localization**.  
+- <b style="color: #224B8D;">\[ICSE-Poster'26\] </b> **Exploring the Information Disorientation Problem in Program Repair under Relaxed Localization**.  
   <u>Jinrui Sun</u>, Tong Jia*, Minghua He, Ying Li.  
   In the companion proceedings of the IEEE/ACM International Conference on Software Engineering, 2026. <b style="color:#3B866E;">(CCF-A)</b>
 
