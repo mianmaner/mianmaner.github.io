@@ -26,7 +26,9 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-- *2026.01*，Our paper **VarParser** has been accepted by WWW 2026. 🎉🎉
+- *2026.01*，Our paper *VarParser* has been accepted by WWW 2026. 🎉🎉
+
+- *2025.07*，Our paper *Too Many Cooks* has been accepted by ISSRE 2025 (Best Research Paper Candidate). 🎉🎉
 
 
 # 📝 Publications 
@@ -37,7 +39,7 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 
 - <b style="color: #224B8D;">\[ICSE-Poster'26\] </b> **Exploring the Information Disorientation Problem in Program Repair under Relaxed Localization**.  
   <u>Jinrui Sun</u>, Tong Jia*, Minghua He, Ying Li.  
-  In the companion proceedings of the IEEE/ACM International Conference on Software Engineering, 2026. <b style="color:#3B866E;">(CCF-A)</b>
+  In the companion proceedings of the IEEE/ACM International Conference on Software Engineering, 2026. 
 
 - <b style="color: #224B8D;">\[ISSRE'25\]</b> **Too Many Cooks: Assessing the Need for Multi-Source Data in Microservice Failure Diagnosis**.  
   Shenglin Zhang, Xiaoyu Feng, Runzhou Wang, Minghua Ma, Wenwei Gu, Yongqian Sun*, Zedong Jia, <u>Jinrui Sun</u> and Dan Pei.  
