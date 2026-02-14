@@ -50,9 +50,9 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
   In the proceedings of the IEEE/ACM International Conference on Automated Software Engineering, 2024. \[[paper](https://nkcs.iops.ai/wp-content/uploads/2024/10/ASE24-Medicine.pdf)\] \[[code](https://github.com/AIOps-Lab-NKU/Medicine)\] <b style="color:#3B866E;">(CCF-A)</b>
 
 # 🏅 Honors and Awards
-- *2023-2024* **National Scholarship**, Ministry of Education of the P.R. China.
-- *2022-2023* First Class Award Scholarship, Nankai University.
-- *2021-2022* First Class Award Scholarship, Nankai University.
+- *2023-2024* **National Scholarship**, From Ministry of Education of the P.R. China.
+- *2022-2023* First Class Award Scholarship, Merit Student, From Nankai University.
+- *2021-2022* First Class Award Scholarship, Merit Student, From Nankai University.
 
 
 # 📖 Educations
