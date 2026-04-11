@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at the School of Software, Nankai University, and I am currently a graduate student at Peking University. My academic advisors are [Tong Jia](https://scholar.google.com/citations?user=uGqZIQsAAAAJ&hl=zh-CN) and [Prof. Ying Li](https://ss.pku.edu.cn/sztd/xssbsz/cd38cb490d9648ba863cffea67a1a941.htm), and my research focuses on Large Language Models for Software Engineering (LLM4SE), with an emphasis on software maintenance.
+Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at the School of Software, Nankai University, and I am currently a graduate student at Peking University. My academic advisors are [Tong Jia](https://scholar.google.com/citations?user=uGqZIQsAAAAJ&hl=zh-CN) and [Prof. Ying Li](https://ss.pku.edu.cn/sztd/xssbsz/cd38cb490d9648ba863cffea67a1a941.htm), and my research focuses on Large Language Models for Software Engineering and Information Retrival (Search, Advertising, and Recommendation Systems).
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -32,6 +32,9 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 
 
 # 📝 Publications 
+
+- <b style="color: #224B8D;">\[Preprint\]</b> **HierDiff: Enhancing Large Language Models for Commit Message Generation with Hierarchical Diff Information**.  
+  <u>Jinrui Sun</u>, Tong Jia*, Minghua He, Ying Li.  
 
 - <b style="color: #224B8D;">\[WWW'26\]</b> **VarParser: Unleashing the Neglected Power of Variables for LLM-based Log Parsing**.  
   <u>Jinrui Sun</u>, Tong Jia*, Minghua He, Ying Li.  
@@ -65,4 +68,5 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *2026.04 - present*, Kuaishou - Community Science Line - Recommendation Model Department
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
