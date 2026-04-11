@@ -33,8 +33,9 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 
 # 📝 Publications 
 
-- <b style="color: #224B8D;">\[Preprint\]</b> **HierDiff: Enhancing Large Language Models for Commit Message Generation with Hierarchical Diff Information**.  
+- <b style="color: #224B8D;">\[Preprint\]</b> **HierDiff: Enhancing Large Language Models for Code Change Summarization with Hierarchical Diffs**.  
   <u>Jinrui Sun</u>, Tong Jia*, Minghua He, Ying Li.  
+  Under Review.
 
 - <b style="color: #224B8D;">\[WWW'26\]</b> **VarParser: Unleashing the Neglected Power of Variables for LLM-based Log Parsing**.  
   <u>Jinrui Sun</u>, Tong Jia*, Minghua He, Ying Li.  
@@ -68,5 +69,5 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2026.04 - present*, Kuaishou - Community Science Line - Recommendation Model Department
+- *2026.04 - present*, Kuaishou - Community Science Line - Recommendation Model Department.
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
