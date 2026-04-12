@@ -28,9 +28,9 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 
 - *2026.01*, Our paper *VarParser* has been accepted by WWW 2026 <b style="color: rgb(242,103,103);">(Oral Presentation, 317/3370, Top 9.4%)</b>. 🎉🎉
 
-- *2025.07*, Our paper *Too Many Cooks* has been accepted by ISSRE 2025 (Best Research Paper Candidate). 🎉🎉
+- *2025.07*, Our paper *Too Many Cooks* has been accepted by ISSRE 2025 **(Best Research Paper Candidate)**. 🎉🎉
 
-
+****
 # 📝 Publications 
 
 - <b style="color: #224B8D;">\[Preprint\]</b> **HierDiff: Enhancing Large Language Models for Code Change Summarization with Hierarchical Diffs**.  
