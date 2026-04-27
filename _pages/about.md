@@ -26,9 +26,9 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - ~~*2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-- *2026.01*, Our paper *VarParser* has been accepted by WWW 2026 <b style="color: rgb(242,103,103);">(Oral Presentation, 317/3370, Top 9.4%)</b>. 🎉🎉
+- *2026.01*, Our paper "VarParser" has been accepted by WWW 2026 <b style="color: rgb(242,103,103);">(Oral Presentation, 317/3370, Top 9.4%)</b>. 🎉🎉
 
-- *2025.07*, Our paper *Too Many Cooks* has been accepted by ISSRE 2025 (Best Research Paper Candidate). 🎉🎉
+- *2025.07*, Our paper "Too Many Cooks" has been accepted by ISSRE 2025 (Best Research Paper Candidate). 🎉🎉
 
 ****
 # 📝 Publications 
