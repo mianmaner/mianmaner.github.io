@@ -8,16 +8,9 @@
 
 // @import url('https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
 
-// @import url('https://fonts.googleapis.com/css2?family=Asul:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asul:wght@400;700&display=swap');
 
-@font-face {
-   font-family: "HFSharp";
-   src: url("/assets/fonts/HFSharp-2.ttf") format("truetype");
-   font-weight: normal;
-   font-style: normal;
-}
-
-$doc-font-size              : 15px;
+$doc-font-size              : 15.5px;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
