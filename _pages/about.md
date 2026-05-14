@@ -33,9 +33,9 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 ****
 # 📝 Publications 
 
-- <b style="color: #224B8D;">\[Arxiv\]</b> **HierDiff: Enhancing Large Language Models for Code Change Summarization with Hierarchical Diffs**.  
+<!-- - <b style="color: #224B8D;">\[Arxiv\]</b> **HierDiff: Enhancing Large Language Models for Code Change Summarization with Hierarchical Diffs**.  
   <u>Jinrui Sun</u>, Tong Jia*, Minghua He, Ying Li.  
-  Under Review.
+  Under Review. -->
 
 - <b style="color: #224B8D;">\[WWW 2026\]</b> **VarParser: Unleashing the Neglected Power of Variables for LLM-based Log Parsing**.  
   <u>Jinrui Sun</u>, Tong Jia*, Minghua He, Ying Li.  
