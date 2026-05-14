@@ -33,7 +33,7 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 ****
 # 📝 Publications 
 
-- <b style="color: #224B8D;">\[Arxiv 26.05\]</b> **HierDiff: Enhancing Large Language Models for Code Change Summarization with Hierarchical Diffs**.  
+- <b style="color: #224B8D;">\[Arxiv 26.05\]</b> **HierDiff: Enhancing Large Language Models for Commit Message Generation with Hierarchical Diffs**.  
   <u>Jinrui Sun</u>, Tong Jia, Minghua He, Ying Li.  
   *This paper is currently under review.*
 
