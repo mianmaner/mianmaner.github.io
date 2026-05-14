@@ -26,16 +26,16 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - ~~*2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-- *2026.01*, Our paper "VarParser" has been accepted by WWW 2026 <b style="color: rgb(242,103,103);">(Oral Presentation, 317/3370, Top 9.4%)</b>. 🎉🎉
+- *2026.01*, Our paper *VarParser* has been accepted by WWW 2026 <b style="color: rgb(242,103,103);">(Oral Presentation, 317/3370, Top 9.4%)</b>. 🎉🎉
 
-- *2025.07*, Our paper "Too Many Cooks" has been accepted by ISSRE 2025 (Best Research Paper Candidate). 🎉🎉
+- *2025.07*, Our paper *Too Many Cooks* has been accepted by ISSRE 2025 (Best Research Paper Candidate). 🎉🎉
 
 ****
 # 📝 Publications 
 
-<!-- - <b style="color: #224B8D;">\[Preprint\]</b> **HierDiff: Enhancing Large Language Models for Code Change Summarization with Hierarchical Diffs**.  
+- <b style="color: #224B8D;">\[Arxiv\]</b> **HierDiff: Enhancing Large Language Models for Code Change Summarization with Hierarchical Diffs**.  
   <u>Jinrui Sun</u>, Tong Jia*, Minghua He, Ying Li.  
-  Under Review. -->
+  Under Review.
 
 - <b style="color: #224B8D;">\[WWW 2026\]</b> **VarParser: Unleashing the Neglected Power of Variables for LLM-based Log Parsing**.  
   <u>Jinrui Sun</u>, Tong Jia*, Minghua He, Ying Li.  
@@ -43,7 +43,7 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 
 - <b style="color: #224B8D;">\[ICSE-Poster 2026\] </b> **Exploring the Information Disorientation Problem in Program Repair under Relaxed Localization**.  
   <u>Jinrui Sun</u>, Tong Jia*, Minghua He, Ying Li.  
-  In the companion proceedings of the IEEE/ACM International Conference on Software Engineering, 2026. 
+  In the companion proceedings of the IEEE/ACM International Conference on Software Engineering, 2026. <b style="color:#3B866E;">(CCF-A)</b>
 
 - <b style="color: #224B8D;">\[ISSRE 2025\]</b> **Too Many Cooks: Assessing the Need for Multi-Source Data in Microservice Failure Diagnosis**.  
   Shenglin Zhang, Xiaoyu Feng, Runzhou Wang, Minghua Ma, Wenwei Gu, Yongqian Sun*, Zedong Jia, <u>Jinrui Sun</u> and Dan Pei.  
