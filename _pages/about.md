@@ -26,7 +26,7 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - ~~*2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-- *2026.01*, Our paper *VarParser* has been accepted by WWW 2026 <b style="color: rgb(242,103,103);">(Oral Presentation, 317/3370, Top 9.4%)</b>. 🎉🎉
+- *2026.01*, Our paper *VarParser* has been accepted by WWW 2026 <b style="color: rgb(242,103,103);">(Oral, 317/3370, Top 9.4%)</b>. 🎉🎉
 
 - *2025.07*, Our paper *Too Many Cooks* has been accepted by ISSRE 2025 (Best Research Paper Candidate). 🎉🎉
 
@@ -39,7 +39,7 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 
 - <b style="color: #224B8D;">\[WWW 2026\]</b> **VarParser: Unleashing the Neglected Power of Variables for LLM-based Log Parsing**.  
   <u>Jinrui Sun</u>, Tong Jia, Minghua He, Ying Li.  
-  In the proceedings of the ACM Web Conference, 2026 <b style="color: rgb(242,103,103);">(Oral Presentation, 317/3370, Top 9.4%)</b>. \[[paper](https://dl.acm.org/doi/10.1145/3774904.3792095)\] \[[code](https://github.com/mianmaner/VarParser)\] <b style="color:#3B866E;">(CCF-A)</b>
+  In the proceedings of the ACM Web Conference, 2026 <b style="color: rgb(242,103,103);">(Oral, 317/3370, Top 9.4%)</b>. \[[paper](https://dl.acm.org/doi/10.1145/3774904.3792095)\] \[[code](https://github.com/mianmaner/VarParser)\] <b style="color:#3B866E;">(CCF-A)</b>
 
 - <b style="color: #224B8D;">\[ICSE-Poster 2026\] </b> **Exploring the Information Disorientation Problem in Program Repair under Relaxed Localization**.  
   <u>Jinrui Sun</u>, Tong Jia*, Minghua He, Ying Li.  

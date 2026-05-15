@@ -10,14 +10,6 @@
 
 // @import url('https://fonts.googleapis.com/css2?family=Asul:wght@400;700&display=swap');
 
-@font-face {
-   font-family: 'Palatino Linotype';
-   src: url('../assets/fonts/Palatino Linotype.ttf') format('truetype');
-   font-weight: normal;
-   font-style: normal;
-   font-display: swap; // 可选，优化字体加载
-}
-
 $doc-font-size              : 16px;
 
 /* paragraph indention */
@@ -25,8 +17,8 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 0.5em;
 
 /* system typefaces */
-$serif                      : 'Palatino Linotype', Palatino, Cambria, '思源宋体', serif;
-$sans-serif                 : 'Palatino Linotype', Palatino, Cambria, '思源宋体', "Trebuchet MS", Helvetica, sans-serif;
+$serif                      : Palatino, Cambria, '思源宋体', serif;
+$sans-serif                 : Palatino, Cambria, '思源宋体', "Trebuchet MS", Helvetica, sans-serif;
 // $sans-serif                 : Georgia, serif, sans-serif;
 
 // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
