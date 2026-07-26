@@ -26,9 +26,9 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - ~~*2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-- *2026.01*, Our paper "VarParser" has been accepted by WWW 2026 <b style="color: rgb(242,103,103);">(Oral, 317/3370, Top 9.4%)</b>. 🎉🎉
+- *2026.01*, One paper **"VarParser"** has been accepted by WWW 2026 <b style="color: rgb(242,103,103);">(Oral, 317/3370, Top 9.4%)</b>. 🎉🎉
 
-- *2025.07*, Our paper "Too Many Cooks" has been accepted by ISSRE 2025 (Best Research Paper Candidate). 🎉🎉
+- *2025.07*, Our paper **"TMC"** has been accepted by ISSRE 2025 (Best Research Paper Candidate). 🎉🎉
 
 ****
 # 📝 Publications 
@@ -54,7 +54,7 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
   In the proceedings of the IEEE/ACM International Conference on Automated Software Engineering, 2024. \[[paper](https://nkcs.iops.ai/wp-content/uploads/2024/10/ASE24-Medicine.pdf)\] \[[code](https://github.com/AIOps-Lab-NKU/Medicine)\] <b style="color:#3B866E;">(CCF-A)</b>
 
 # 🏅 Honors and Awards
-- *2025-2026*, **Second Prize Scholarship for Key Software**, Peking University
+- *2025-2026*, Second Prize Scholarship for Key Software, Peking University
 - *2023-2024*, **National Scholarship**, Ministry of Education of the P.R. China.
 - *2022-2023*, First Class Award Scholarship, Merit Student, Nankai University.
 - *2021-2022*, First Class Award Scholarship, Merit Student, Nankai University.
