@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at the School of Software, Nankai University, and I am currently a graduate student at Peking University. My academic advisors are [Tong Jia](https://scholar.google.com/citations?user=uGqZIQsAAAAJ&hl=zh-CN) and [Prof. Ying Li](https://ss.pku.edu.cn/sztd/xssbsz/cd38cb490d9648ba863cffea67a1a941.htm), and my research focuses on Large Language Models for Software Engineering and Information Retrival (Search, Advertising, and Recommendation Systems)
+Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at the School of Software, Nankai University, and I am currently a graduate student at Peking University. My academic advisors are [Tong Jia](https://scholar.google.com/citations?user=uGqZIQsAAAAJ&hl=zh-CN) and [Prof. Ying Li](https://ss.pku.edu.cn/sztd/xssbsz/cd38cb490d9648ba863cffea67a1a941.htm), and my research focuses on Large Language Models for Software Engineering and Information Retrival.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -26,16 +26,16 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - ~~*2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-- *2026.01*, Our paper *VarParser* has been accepted by WWW 2026 <b style="color: rgb(242,103,103);">(Oral, 317/3370, Top 9.4%)</b>. 🎉🎉
+- *2026.01*, Our paper "VarParser" has been accepted by WWW 2026 <b style="color: rgb(242,103,103);">(Oral, 317/3370, Top 9.4%)</b>. 🎉🎉
 
-- *2025.07*, Our paper *Too Many Cooks* has been accepted by ISSRE 2025 (Best Research Paper Candidate). 🎉🎉
+- *2025.07*, Our paper "Too Many Cooks" has been accepted by ISSRE 2025 (Best Research Paper Candidate). 🎉🎉
 
 ****
 # 📝 Publications 
 
 - <b style="color: #224B8D;">\[Arxiv 26.05\]</b> **HierDiff: Enhancing Large Language Models for Commit Message Generation with Hierarchical Diffs**.  
   <u>Jinrui Sun</u>, Tong Jia, Minghua He, Ying Li.  
-  *This paper is currently under review.*
+  This paper is currently under review.
 
 - <b style="color: #224B8D;">\[WWW 2026\]</b> **VarParser: Unleashing the Neglected Power of Variables for LLM-based Log Parsing**.  
   <u>Jinrui Sun</u>, Tong Jia, Minghua He, Ying Li.  
@@ -54,6 +54,7 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
   In the proceedings of the IEEE/ACM International Conference on Automated Software Engineering, 2024. \[[paper](https://nkcs.iops.ai/wp-content/uploads/2024/10/ASE24-Medicine.pdf)\] \[[code](https://github.com/AIOps-Lab-NKU/Medicine)\] <b style="color:#3B866E;">(CCF-A)</b>
 
 # 🏅 Honors and Awards
+- *2025-2026*, **Second Prize Scholarship for Key Software**, Peking University
 - *2023-2024*, **National Scholarship**, Ministry of Education of the P.R. China.
 - *2022-2023*, First Class Award Scholarship, Merit Student, Nankai University.
 - *2021-2022*, First Class Award Scholarship, Merit Student, Nankai University.
