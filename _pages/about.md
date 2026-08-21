@@ -26,7 +26,7 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - ~~*2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-- *2026.08*, One paper **"HierDiff"** has been accepted by EMNLP 2026 findings <b style="color: rgb(242,103,103);">(317/3370, Top 9.4%)</b>. 🎉🎉
+- *2026.08*, One paper **"HierDiff"** has been accepted by EMNLP 2026 findings. 🎉🎉
 
 - *2026.01*, One paper **"VarParser"** has been accepted by WWW 2026 Oral <b style="color: rgb(242,103,103);">(317/3370, Top 9.4%)</b>. 🎉🎉
 
