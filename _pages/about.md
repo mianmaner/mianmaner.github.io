@@ -28,9 +28,9 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 
 - *2026.08*, One paper **"HierDiff"** has been accepted by EMNLP 2026 findings. 🎉🎉
 
-- *2026.01*, One paper **"VarParser"** has been accepted by WWW 2026 Oral <b style="color: rgb(242,103,103);">(317/3370, Top 9.4%)</b>. 🎉🎉
+- *2026.01*, One paper **"VarParser"** has been accepted by WWW 2026 <b style="color: rgb(242,103,103);">(Oral, 317/3370, Top 9.4%)</b>. 🎉🎉
 
-- *2025.07*, Our paper **"TMC"** has been accepted by ISSRE 2025 Best Research Paper Candidate. 🎉🎉
+- *2025.07*, Our paper **"TMC"** has been accepted by ISSRE 2025 (Best Research Paper Candidate). 🎉🎉
 
 ****
 # 📝 Publications 
