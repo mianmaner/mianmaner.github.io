@@ -35,7 +35,7 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 
 - <b style="color: #224B8D;">\[EMNLP 2026\]</b> **HierDiff: Enhancing Large Language Models for Commit Message Generation with Hierarchical Diffs**.  
   <u>Jinrui Sun</u>, Tong Jia, Minghua He, Ying Li.  
-  In the findings of the 2026 Conference on Empirical Methods in Natural Language Processing.
+  In the findings of the 2026 Conference on Empirical Methods in Natural Language Processing. <b style="color:#3B866E;">(Tsinghua-A)</b>
 
 - <b style="color: #224B8D;">\[WWW 2026\]</b> **VarParser: Unleashing the Neglected Power of Variables for LLM-based Log Parsing**.  
   <u>Jinrui Sun</u>, Tong Jia, Minghua He, Ying Li.  
@@ -43,7 +43,7 @@ Welcome! I'm **Jinrui Sun(孙锦瑞)**, I completed my undergraduate studies at 
 
 - <b style="color: #224B8D;">\[ICSE-Poster 2026\] </b> **Exploring the Information Disorientation Problem in Program Repair under Relaxed Localization**.  
   <u>Jinrui Sun</u>, Tong Jia*, Minghua He, Ying Li.  
-  In the companion proceedings of the 2026 IEEE/ACM International Conference on Software Engineering. <b style="color:#3B866E;">(CCF-A)</b>
+  In the companion proceedings of the 2026 IEEE/ACM International Conference on Software Engineering.
 
 - <b style="color: #224B8D;">\[ISSRE 2025\]</b> **Too Many Cooks: Assessing the Need for Multi-Source Data in Microservice Failure Diagnosis**.  
   Shenglin Zhang, Xiaoyu Feng, Runzhou Wang, Minghua Ma, Wenwei Gu, Yongqian Sun, Zedong Jia, <u>Jinrui Sun</u> and Dan Pei.  
